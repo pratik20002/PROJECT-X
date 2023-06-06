@@ -14,7 +14,7 @@
 # How to install dependencies
    `git clone <repository link>` 
    
-   `(Navigate to Interstellar folder)`
+   `(Navigate to Project-X folder)`
    
    `npm install --force`
     
